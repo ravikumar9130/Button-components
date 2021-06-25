@@ -1,4 +1,4 @@
-<!-- Please update value in the {}  -->
+<!-- Please update value in  {}  -->
 
 <h1 align="center">{Button component}</h1>
 
