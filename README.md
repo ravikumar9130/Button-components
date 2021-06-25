@@ -22,7 +22,7 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLEF CONTENTS -->
 
 ## Table of Contents
 
